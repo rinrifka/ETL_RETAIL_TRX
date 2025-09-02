@@ -41,7 +41,7 @@ ETL pipeline for Lion Parcel retail transactions (using dummy data): reads CSV s
 
 ## Automatic Run via Task Scheduler
 1. Open Task Scheduler → Create Task
-2. General tab → Name: 'sesuaikan keinginan masing-masing'
+2. General tab → Name: 'anything you want'
 3. Trigger tab → New :
    - Begin the task: On a schedule → Daily
    - Repeat task every: 1 hour
